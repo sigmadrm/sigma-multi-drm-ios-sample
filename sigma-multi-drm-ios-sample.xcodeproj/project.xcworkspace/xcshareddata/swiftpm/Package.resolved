@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SigmaMultiDRM",
+        "repositoryURL": "https://github.com/sigmadrm/sigma-multidrm-spm",
+        "state": {
+          "branch": null,
+          "revision": "29aae7c3b6a862a84209639643da5768c8d8c0f3",
+          "version": "1.0.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
